@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.shysoft.amj",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "com.shysoft.amj",
+    "packageFolder": "com/shysoft/amj",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDgxOGMyZWE2Zjg0NWI0ZDgzZDNkYTRlNGU1ZDA1YmVhNDFjMzZkYzg5NDZmNzNmZjRjMjExNWFmODg4ZjMxZWM3MDQxYTQ4NTZmYWYzYjkzMTQyZDA0MWU4ZjZiZWRmNGM2YWY1MmVmOGU3OThiZDI1MzcwMzNiNGI1MjdlYmM=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "zh-cn",
+      "ja"
+    ]
+  }
+}
